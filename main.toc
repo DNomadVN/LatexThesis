@@ -1,0 +1,65 @@
+\contentsline {section}{NHIỆM VỤ ĐỒ ÁN MÔN HỌC HỆ THỐNG CƠ ĐIỆN TỬ}{i}{section*.1}%
+\contentsline {section}{LỜI CẢM ƠN}{ii}{chapter*.2}%
+\contentsline {section}{DANH MỤC TỪ VIẾT TẮT}{v}{chapter*.4}%
+\contentsline {section}{DANH SÁCH BẢNG}{vi}{chapter*.5}%
+\contentsline {section}{DANH SÁCH HÌNH VẼ}{viii}{chapter*.6}%
+\contentsline {chapter}{\numberline {1}GIỚI THIỆU}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Lý do chọn đề tài}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Đối tượng nghiên cứu}{2}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Mục tiêu nghiên cứu}{3}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Giới hạn đề tài}{3}{section.1.4}%
+\contentsline {section}{\numberline {1.5}Phương pháp nghiên cứu}{3}{section.1.5}%
+\contentsline {section}{\numberline {1.6}Phương pháp thiết kế chung}{3}{section.1.6}%
+\contentsline {chapter}{\numberline {2}TỔNG QUAN}{4}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Các nghiên cứu có liên quan ngoài nước}{4}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Các nghiên cứu có liên quan trong nước}{5}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Hướng nghiên cứu và phát triển}{6}{section.2.3}%
+\contentsline {chapter}{\numberline {3}PHÂN TÍCH ĐỀ TÀI VÀ PHƯƠNG ÁN THIẾT KẾ}{8}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Thông số thiết kế}{8}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Phương hướng và giải pháp thực hiện}{8}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Phương án 1}{9}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Phương án 2}{9}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2.3}Phương án 3}{9}{subsection.3.2.3}%
+\contentsline {subsection}{\numberline {3.2.4}Lựa chọn phương án tối ưu:}{11}{subsection.3.2.4}%
+\contentsline {section}{\numberline {3.3}Chọn động cơ}{11}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Lựa chọn các chi tiết cho mô hình}{12}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Tính toán lựa chọn đèn}{17}{section.3.5}%
+\contentsline {subsection}{\numberline {3.5.1}Chọn độ rọi}{17}{subsection.3.5.1}%
+\contentsline {subsection}{\numberline {3.5.2}Chọn loại đèn}{17}{subsection.3.5.2}%
+\contentsline {subsection}{\numberline {3.5.3}Chọn phương án chiếu sáng và bộ đèn}{18}{subsection.3.5.3}%
+\contentsline {subsection}{\numberline {3.5.4}Bố trí các đèn}{18}{subsection.3.5.4}%
+\contentsline {subsection}{\numberline {3.5.5}Thực nghiệm và chọn loại đèn phù hợp}{19}{subsection.3.5.5}%
+\contentsline {chapter}{\numberline {4}THI CÔNG HỆ THỐNG ĐIỆN}{21}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Các thiết bị điện}{21}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Tổng quan về các phần tử điện}{21}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.2}Khối nguồn}{21}{subsection.4.1.2}%
+\contentsline {subsection}{\numberline {4.1.3}Động cơ bước}{22}{subsection.4.1.3}%
+\contentsline {subsection}{\numberline {4.1.4}Driver cho động cơ bước}{23}{subsection.4.1.4}%
+\contentsline {subsection}{\numberline {4.1.5}Mạch cầu H đầy đủ L298N}{25}{subsection.4.1.5}%
+\contentsline {subsection}{\numberline {4.1.6}Kit STM32F411 - Discovery}{26}{subsection.4.1.6}%
+\contentsline {subsection}{\numberline {4.1.7}Module mở rộng giao tiếp I2C 8 kênh TCA9548A}{26}{subsection.4.1.7}%
+\contentsline {subsection}{\numberline {4.1.8}PCA9685}{27}{subsection.4.1.8}%
+\contentsline {subsection}{\numberline {4.1.9}LED công suất 3W}{28}{subsection.4.1.9}%
+\contentsline {subsection}{\numberline {4.1.10}Cảm biến ánh sáng}{28}{subsection.4.1.10}%
+\contentsline {section}{\numberline {4.2}Sơ đồ kết nối}{29}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Sơ đồ kết nối tổng quát}{29}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}Sơ đồ kết nối đèn và module L298N}{29}{subsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.2.3}Sơ đồ kết nối Driver TB6600 với động cơ bước}{29}{subsection.4.2.3}%
+\contentsline {chapter}{\numberline {5}ĐIỀU KHIỂN VÀ LẬP TRÌNH}{34}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Tổng quan về phần điều khiển}{34}{section.5.1}%
+\contentsline {subsection}{\numberline {5.1.1}Sơ đồ khối hệ thống điều khiển}{34}{subsection.5.1.1}%
+\contentsline {subsection}{\numberline {5.1.2}Khối điều khiển trung tâm}{35}{subsection.5.1.2}%
+\contentsline {subsection}{\numberline {5.1.3}Khối cảm biến}{35}{subsection.5.1.3}%
+\contentsline {subsection}{\numberline {5.1.4}Khối điều khiển vị trí các dàn đèn}{36}{subsection.5.1.4}%
+\contentsline {subsection}{\numberline {5.1.5}Khối điều khiển độ sáng các bóng đèn}{36}{subsection.5.1.5}%
+\contentsline {section}{\numberline {5.2}Lập trình các chức năng Manual}{38}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}Lưu đồ giải thuật chương trình điều khiển}{38}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {5.2.2}Đọc dữ liệu từ cảm biến}{39}{subsection.5.2.2}%
+\contentsline {subsection}{\numberline {5.2.3}Điều khiển toạ độ các dàn đèn}{51}{subsection.5.2.3}%
+\contentsline {subsection}{\numberline {5.2.4}Điều khiển độ sáng của các bóng đèn}{56}{subsection.5.2.4}%
+\contentsline {subsection}{\numberline {5.2.5}Nhận tín hiệu từ máy tính và thực hiện các thao tác điều khiển}{63}{subsection.5.2.5}%
+\contentsline {subsection}{\numberline {5.2.6}Phần mềm điều khiển giao diện trên máy tính}{65}{subsection.5.2.6}%
+\contentsline {chapter}{\numberline {6}TỔNG KẾT, ĐÁNH GIÁ \\ VÀ HƯỚNG PHÁT TRIỂN}{79}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Tổng kết, đánh giá}{79}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Hướng phát triển}{80}{section.6.2}%
+\contentsline {chapter}{TÀI LIỆU THAM KHẢO}{81}{chapter*.62}%

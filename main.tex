@@ -1,0 +1,94 @@
+\documentclass[a4paper]{report}
+\usepackage[utf8]{vietnam}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+
+\usepackage{graphicx}
+
+\usepackage[left=3.5cm,right=2cm,top=3cm,bottom=3.5cm]{geometry}
+
+\usepackage{mathptmx}
+
+\usepackage{scrextend}
+\changefontsizes{13pt}
+
+\usepackage[unicode]{hyperref}
+
+\usepackage{indentfirst}
+
+\usepackage{sectsty}
+\chapternumberfont{\Large} 
+\chaptertitlefont{\LARGE}
+
+\usepackage{wrapfig}
+
+\usepackage{float}
+\restylefloat{table}
+
+\usepackage{makecell}
+
+\usepackage{pdfpages} 
+
+\usepackage{subfig}
+
+\usepackage{listings}
+\usepackage{color}
+\definecolor{dkgreen}{rgb}{0,0.6,0}
+\definecolor{gray}{rgb}{0.5,0.5,0.5}
+\definecolor{mauve}{rgb}{0.58,0,0.82}
+\lstset{frame=tb,
+  language=C++,
+  aboveskip=3mm,
+  belowskip=3mm,
+  showstringspaces=false,
+  columns=flexible,
+  basicstyle={\small\ttfamily},
+  numbers=none,
+  numberstyle=\tiny\color{gray},
+  keywordstyle=\color{blue},
+  commentstyle=\color{dkgreen},
+  stringstyle=\color{mauve},
+  breaklines=true,
+  breakatwhitespace=true,
+  tabsize=3
+}
+
+
+\begin{document}
+\pagenumbering{roman}
+
+\includepdf[page=-]{Bia.pdf}
+\setcounter{page}{1}
+\include{Chapters/Nhiemvu/Nhiemvu}
+
+\include{Chapters/Loicamon/Loicamon}
+
+\tableofcontents
+
+\include{Chapters/DMTVT/Danhmuctuviettat}
+
+\listoftables
+\addcontentsline{toc}{section}{DANH SÁCH BẢNG}
+\listoffigures
+\addcontentsline{toc}{section}{DANH SÁCH HÌNH VẼ}
+
+\chapter{GIỚI THIỆU}
+\pagenumbering{arabic}
+\input{Chapters/Chapter1/Chuong1}
+
+\include{Chapters/Chapter2/Chuong2}
+
+\include{Chapters/Chapter3/Chuong3}
+
+\include{Chapters/Chapter4/Chuong4}
+
+\include{Chapters/Chapter5/Chuong5}
+
+\include{Chapters/Chapter6/Chuong6}
+
+\include{Chapters/TLTK/Tailieuthamkhao}
+
+
+
+\end{document}

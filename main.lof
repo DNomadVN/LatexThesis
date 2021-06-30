@@ -1,0 +1,63 @@
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Bảng cường độ ánh sáng cần thiết cho các phòng\relax }}{1}{figure.caption.7}%
+\contentsline {figure}{\numberline {1.2}{\ignorespaces Ảnh hưởng của ánh sáng tự nhiên tới cường độ ánh sáng trong phòng\relax }}{2}{figure.caption.8}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Cân bằng ánh sáng trong nhà kính trồng rau\relax }}{4}{figure.caption.9}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Chiếu sáng trong nhà kho\relax }}{5}{figure.caption.10}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Chiếu sáng trong lớp học\relax }}{6}{figure.caption.11}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Khung nhôm định hình\relax }}{8}{figure.caption.12}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Phương án 1\relax }}{9}{figure.caption.13}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Phương án 2\relax }}{10}{figure.caption.14}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Phương án 3\relax }}{10}{figure.caption.15}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Động cơ bước NEMA17\relax }}{12}{figure.caption.16}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Nhôm định hình 20x20\relax }}{13}{figure.caption.17}%
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Ke góc vuông\relax }}{13}{figure.caption.18}%
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Gối đỡ trục\relax }}{14}{figure.caption.19}%
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Bảng kích thước gối đỡ trục\relax }}{14}{figure.caption.20}%
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Con trượt vuông\relax }}{15}{figure.caption.21}%
+\contentsline {figure}{\numberline {3.11}{\ignorespaces Gối đỡ vòng bi ngang\relax }}{16}{figure.caption.22}%
+\contentsline {figure}{\numberline {3.12}{\ignorespaces Puly trục 5mm 20 răng\relax }}{16}{figure.caption.23}%
+\contentsline {figure}{\numberline {3.13}{\ignorespaces Dây đai GT2\relax }}{16}{figure.caption.24}%
+\contentsline {figure}{\numberline {3.14}{\ignorespaces Mô phỏng bố trí đèn chiếu trong phòng học sử dụng phần mềm DIALux\relax }}{18}{figure.caption.25}%
+\contentsline {figure}{\numberline {3.15}{\ignorespaces Đèn LED công suất 10W\relax }}{19}{figure.caption.26}%
+\contentsline {figure}{\numberline {3.16}{\ignorespaces Đèn LED công suất 5W\relax }}{20}{figure.caption.27}%
+\contentsline {figure}{\numberline {3.17}{\ignorespaces Đèn LED công suất 3W\relax }}{20}{figure.caption.28}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Sơ đồ các khối trong hệ thống điện\relax }}{21}{figure.caption.29}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Nguồn tổ ong\relax }}{22}{figure.caption.30}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Cấu tạo động cơ bước\relax }}{23}{figure.caption.31}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Một số driver cho động cơ bước\relax }}{23}{figure.caption.32}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Driver TB6600}}}{23}{subfigure.4.1}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Driver A4988}}}{23}{subfigure.4.2}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Module L298N\relax }}{25}{figure.caption.33}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Kit STM32F411 Discovery\relax }}{26}{figure.caption.34}%
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Module TCA9548A\relax }}{27}{figure.caption.35}%
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Module PCA9685\relax }}{27}{figure.caption.36}%
+\contentsline {figure}{\numberline {4.9}{\ignorespaces LED công suất 3W\relax }}{28}{figure.caption.37}%
+\contentsline {figure}{\numberline {4.10}{\ignorespaces Cảm biến ánh sáng GY-30 BH1750\relax }}{29}{figure.caption.38}%
+\contentsline {figure}{\numberline {4.11}{\ignorespaces Sơ đồ nguyên lý tổng quát\relax }}{30}{figure.caption.39}%
+\contentsline {figure}{\numberline {4.12}{\ignorespaces Sơ đồ kết nối điện thực tế\relax }}{31}{figure.caption.40}%
+\contentsline {figure}{\numberline {4.13}{\ignorespaces Sơ đồ nguyên lý kết nối đèn với module L298N\relax }}{32}{figure.caption.41}%
+\contentsline {figure}{\numberline {4.14}{\ignorespaces Sơ đồ kết nối thực tế đèn với module L298N\relax }}{32}{figure.caption.42}%
+\contentsline {figure}{\numberline {4.15}{\ignorespaces Sơ đồ nguyên lý kết nối Driver và động cơ\relax }}{33}{figure.caption.43}%
+\contentsline {figure}{\numberline {4.16}{\ignorespaces Sơ đồ kết nối thực tế Driver và động cơ\relax }}{33}{figure.caption.44}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Sơ đồ khối hệ thống điều khiển\relax }}{34}{figure.caption.45}%
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Khối điều khiển trung tâm\relax }}{35}{figure.caption.46}%
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Khối cảm biến\relax }}{35}{figure.caption.47}%
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Khối điều khiển vị trí các dàn đèn\relax }}{36}{figure.caption.48}%
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Khối điều khiển độ sáng các bóng đèn\relax }}{37}{figure.caption.49}%
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Lưu đồ giải thuật chương trình chính\relax }}{38}{figure.caption.50}%
+\contentsline {figure}{\numberline {5.7}{\ignorespaces Lưu đồ giải thuật chương trình ngắt\relax }}{39}{figure.caption.51}%
+\contentsline {figure}{\numberline {5.8}{\ignorespaces Địa chỉ I2C của module TCA9548A\relax }}{39}{figure.caption.52}%
+\contentsline {figure}{\numberline {5.9}{\ignorespaces Quy cách gửi data cho module TCA9548A\relax }}{40}{figure.caption.53}%
+\contentsline {figure}{\numberline {5.10}{\ignorespaces Quy cách đọc data từ module TCA9548A\relax }}{40}{figure.caption.54}%
+\contentsline {figure}{\numberline {5.11}{\ignorespaces Bảng định nghĩa hàm dựa trên Control Register của TCA9548A\relax }}{40}{figure.caption.55}%
+\contentsline {figure}{\numberline {5.12}{\ignorespaces Gửi data cho module BH1750\relax }}{44}{figure.caption.56}%
+\contentsline {figure}{\numberline {5.13}{\ignorespaces Đọc data từ module BH1750\relax }}{44}{figure.caption.57}%
+\contentsline {figure}{\numberline {5.14}{\ignorespaces Bảng mã điều khiển của module BH1750\relax }}{45}{figure.caption.58}%
+\contentsline {figure}{\numberline {5.15}{\ignorespaces Địa chỉ của module PCA9685\relax }}{57}{figure.caption.59}%
+\contentsline {figure}{\numberline {5.16}{\ignorespaces Gửi data cho module PCA9685\relax }}{57}{figure.caption.60}%
+\contentsline {figure}{\numberline {5.17}{\ignorespaces Giao diện GUI của ứng dụng điều khiển\relax }}{77}{figure.caption.61}%
+\addvspace {10\p@ }
